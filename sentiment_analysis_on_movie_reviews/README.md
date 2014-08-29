@@ -41,3 +41,25 @@ The sentiment labels are:
 * 2 - neutral
 * 3 - somewhat positive
 * 4 - positive
+
+### Evaluation
+
+Submissions are evaluated on classification accuracy (the percent of labels that are predicted correctly) for every parsed phrase. The sentiment labels are:
+
+* 0 - negative
+* 1 - somewhat negative
+* 2 - neutral
+* 3 - somewhat positive
+* 4 - positive
+
+### Submission Format
+
+For each phrase in the test set, predict a label for the sentiment. Your submission should have a header and look like the following:
+
+```
+PhraseId,Sentiment
+156061,2
+156062,2
+156063,2
+...
+```
