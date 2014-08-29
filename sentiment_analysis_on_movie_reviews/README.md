@@ -21,11 +21,11 @@ Image credits: Popcorn - Maura Teague, http://www.flickr.com/photos/93496438@N06
 
 ### Data Files
 
-|File Name          | Available Formats |
-|-------------------|-------------------|
-|test.tsv	          |.zip (470.84 kb)   |
-|sampleSubmission	  |.csv (582.66 kb)   |
-|train.tsv          |.zip (1.21 mb)     |
+|File Name                              | Available Formats |
+|---------------------------------------|-------------------|
+|test.tsv	                              |[.zip (470.84 kb)](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/test.tsv.zip)   |
+|sampleSubmission	                      |[.csv (582.66 kb)](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/sampleSubmission.csv)   |
+|train.tsv                              |[.zip (1.21 mb)](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/download/train.tsv.zip)     |
 
 
 The dataset is comprised of tab-separated files with phrases from the Rotten Tomatoes dataset. The train/test split has been preserved for the purposes of benchmarking, but the sentences have been shuffled from their original order. Each Sentence has been parsed into many phrases by the Stanford parser. Each phrase has a PhraseId. Each sentence has a SentenceId. Phrases that are repeated (such as short/common words) are only included once in the data.
