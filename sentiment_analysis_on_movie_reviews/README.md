@@ -21,7 +21,8 @@ Image credits: Popcorn - Maura Teague, http://www.flickr.com/photos/93496438@N06
 
 ### Data Files
 
-File Name	Available Formats
+File Name	| Available Formats
+          |
 test.tsv	.zip (470.84 kb)
 sampleSubmission	.csv (582.66 kb)
 train.tsv	.zip (1.21 mb)
