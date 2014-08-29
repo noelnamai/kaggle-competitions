@@ -8,4 +8,4 @@ recognition. It is a subset of the [80 million tiny images dataset](http://group
 Kaggle is hosting a CIFAR-10 leaderboard for the machine learning community to use for fun and practice. You can see how 
 your approach compares to the latest research methods on Rodrigo Benenson's [classification results page](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html).
 
-![alt tag](https://github.com/noelnamai/kaggle/blob/master/CIFAR-10_object_recognition_in_images/img/cifar-10.png)
+->![alt tag](https://github.com/noelnamai/kaggle/blob/master/CIFAR-10_object_recognition_in_images/img/cifar-10.png)<-
